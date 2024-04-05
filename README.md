@@ -1,4 +1,4 @@
-# ProjektZFizyki_Eryk_Glab_Patryk_Kosinski
+# Physics_Project
 
 
 
